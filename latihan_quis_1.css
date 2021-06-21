@@ -1,0 +1,38 @@
+/*ini digunakan untuk header*/
+.header h1{
+	background-color: lightblue;
+	
+}
+.header h1{
+	font-family: arial,sans-serif;
+}
+.nav-bar ul li{
+	/*background-color: yellowgreen;*/
+	display: inline-block;
+	width: 80px;
+	height: 30px;
+	text-align: 20px;
+}
+
+.nav-bar ul li a{
+	text-decoration: none;
+}
+.main{
+	background-color: lightblue;
+	width: 600px;
+	height: 480px;
+}
+.main h2{
+	background-color: red;
+}
+.main img{
+	width: 200px;
+	height: 200px;
+}
+
+.copyright h3{
+	background-color: yellow;
+	text-indent:italic ;
+	width: 600px;
+	height: 50px;
+}
